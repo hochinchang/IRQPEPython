@@ -3,4 +3,5 @@
 
 ### CMTmon_M8xm
 範例資料
++ CMTmon_M8xm.txt：一筆8x12以空隔做間隔的陣列資料
 程式
